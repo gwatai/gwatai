@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gwatai
-- 👀 I’m interested in html,css,php and sql
+- 👋 Hi, I’m @gwatai  @NICHOLAS
+- 👀 I’m interested in html,css,php and sql AND PYTHON
 - 🌱 I’m currently learning USSD coding
 - 💞️ I’m looking to collaborate on USSD code development 
 - 📫 How to reach me whatsapp or telegram +254743268006 email me on gwatainicholas@gmail.com 
