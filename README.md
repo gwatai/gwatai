@@ -1,8 +1,8 @@
-- 👋 Hi, I’m nick
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in Web development  
-- 🌱 I’m currently adavancing as a  full stack developer
+- 🌱 I’m currently advancing as a  full stack developer
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me whatsapp or telegram +254743268006 or email me on gwatainicholas@gmail.com 
+- 📫 How to reach me Whatsapp or telegram +254795398841 or email me on gwatainicholas@gmail.com 
 
 <!---
 gwatai/gwatai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
