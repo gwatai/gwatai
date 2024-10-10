@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nick
-- 👀 I’m interested in Web development  
-- 🌱 I’m currently advancing as a full-stack software engineer
+- 👋 Hi, I’m Nick A Software Engineer
+- 👀 I’m interested in AI
+- 🌱 I’m currently advancing as a Reinforcement Learning Engineer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Whatsapp or telegram +254100644779 or email me at gwatainicholas@gmail.com 
 - 🕸️ ceo.househunting.co.ke 
